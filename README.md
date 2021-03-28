@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tymino3
+- 🌱 I’m currently learning Python  
+- 📫 How to reach me on Discord at Battlegear786#4275
